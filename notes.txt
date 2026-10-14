@@ -1,2 +1,2 @@
 Personal development notes.
-
+Learning Git diff helps me review changes before committing them.
