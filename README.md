@@ -41,3 +41,4 @@ This command displays the current state of the Git repository.
 - Practice meaningful commits and selective staging.
 - Work with feature branches and merges.
 - Synchronize local changes with GitHub.
+- Learn how to synchronize local and remote repositories using Git fetch and pull.
